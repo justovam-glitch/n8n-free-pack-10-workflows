@@ -6,8 +6,8 @@ A free pack of **10 quick n8n workflows** curated for clarity:
 - Simple 5-minute test steps
 
 ## Get the pack (free)
-Download here:
 Reddit note: Some threads don’t allow certain links. The download link is below.
+Download here:
 https://justova.gumroad.com/l/mxskzj?utm_source=github&utm_medium=referal&utm_campaign=free-pack-launch&utm_content=readme
 
 ## What’s included
